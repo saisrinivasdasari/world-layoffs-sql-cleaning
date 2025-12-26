@@ -17,11 +17,13 @@ ready for analysis and visualization.
 ---
 
 ## Project Structure
+```text
 data/
  └── world_layoffs.csv
 sql/
  └── data_cleaning.sql
 README.md
+```
 
 - `world_layoffs.csv` → raw dataset  
 - `data_cleaning.sql` → complete SQL cleaning workflow  
